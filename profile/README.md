@@ -1,6 +1,4 @@
 ## teamzuzu 
 
-🌈🌈🌈!
-
 various unfinished ideas
 
