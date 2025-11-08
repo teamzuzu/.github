@@ -1,4 +1,3 @@
 ## teamzuzu 
 
-various unfinished ideas
-
+homelab projects
