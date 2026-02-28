@@ -1,3 +1,3 @@
-## teamzuzu 
+## zlabz
 
-homelab projects
+homelab stuff
